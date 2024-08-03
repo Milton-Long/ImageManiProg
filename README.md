@@ -3,6 +3,6 @@
 
 ### TODO  
  - Learn how jpeg works
- - read & edit multiple images concurrently
+ - Read & edit multiple images concurrently
  - Apply filters(Monochrome, invert, all RGB, replace colors w/ another)
 
